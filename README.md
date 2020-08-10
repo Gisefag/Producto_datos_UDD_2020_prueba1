@@ -8,7 +8,9 @@
 
 >Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://prueba1-limones.herokuapp.com/
 
-> Las imagenes de Con_plaga fueron complementadas con fotografías reales de limonales que poseen algún tipo de plaga.
+> Las imágenes de Con_plaga fueron complementadas con fotografías reales de limonales que poseen algún tipo de plaga.
+
+Observación: El error quedo en un 16% ya que no logré identificar la causa raíz del error que entregaba el código al colocar en esta fila learn.fit_one_cycle(4) más de 1 ya que el sistema no lo permitía. 
 
 
 ## Antes de empezar
