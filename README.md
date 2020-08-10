@@ -8,6 +8,8 @@
 
 >Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://prueba1-limones.herokuapp.com/
 
+> Las imagenes de Con_plaga fueron complementadas con fotografías reales de limonales que poseen algún tipo de plaga.
+
 
 ## Antes de empezar
 
