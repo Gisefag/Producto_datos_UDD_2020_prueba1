@@ -2,9 +2,9 @@
 # Laboratorio: Publicando un modelo de deep learning en Heroku
 
 
-> Problema: En la agricultura, uno de los problemas recurrentes asociados al árbol del limón, son las plagas, las cuales pueden provocar, dar un fruto malo, matar el árbol de limón lo cual impacta directamente en los ingresos 
+> Problema: En la agricultura, uno de los problemas recurrentes asociados al árbol del limón, son las plagas, las cuales pueden provocar algunos daños tales como, dar un fruto malo o matar el árbol de limón lo cual impacta directamente en los ingresos para los agricultores.
 
-> Solución: Con este trabajo intentamos identificar mediante imágenes aquellos árboles de limón que podrían estar sufriendo de plagas, con el fin de identificarlos a tiempo para realizar la correspondiente fumigación de líquidos especiales para ello.
+> Solución: Con este trabajo intentamos identificar mediante reconocimiento de imágenes aquellos árboles de limón que podrían estar sufriendo de plagas, con el fin de identificarlos a tiempo para realizar la correspondiente fumigación con líquidos especiales para ello.
 
 >Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://prueba1-limones.herokuapp.com/
 
