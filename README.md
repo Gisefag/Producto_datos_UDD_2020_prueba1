@@ -2,7 +2,11 @@
 # Laboratorio: Publicando un modelo de deep learning en Heroku
 
 
-> Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://prueba1-limones.herokuapp.com/
+> Problema: En la agricultura, uno de los problemas recurrentes asociados al árbol del limon, son las plagas, las cuales pueden probocar, dar un fruto malo, matar el árbol de limon lo cual impacta directamente en los ingresos 
+
+> Solución: Con este trabajo intentamos identificar mediante imagenes aquellos árboles de limon que podrían estar sufriendo de plagas, con el fin de identificarlos a tiempo para realizar la correspondiente fumigación de líquidos especiales para ello.
+
+>Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://prueba1-limones.herokuapp.com/
 
 
 ## Antes de empezar
